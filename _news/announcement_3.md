@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-11-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our work, **A Contract-Based Distributed Task-Offloading Methodology for Vehicular Edge Computing**, is submitted to the ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2024.
