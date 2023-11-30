@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://peterwu-1031.github.io/sitemap.xml
