@@ -34,7 +34,7 @@
       institution: Access IC Lab, NTU
       year: 2021 - 2023
       description:
-        - Advised by Prof. An-Yeu (Andy) Wu (IEEE Fellow).
+        - Advised by Prof. An-Yeu (Andy) Wu, IEEE Fellow.
         - Energy-aware and dynamic deep learning inference on hybrid Near-Memory/In-Memory Computing (NMC/IMC) architecture.
         - Published the paper as the first author with oral presentation at SOCC 2023.
 
@@ -49,7 +49,7 @@
       year: 2020 - 2022
       description:
       - Advised by Prof. Jie-Hong Roland Jiang.
-      - Bitstream-only circuit synthesis for Stochastic Neural Networks.
+      - Bitstream-only circuit design for Stochastic Neural Networks.
       - Improved the accuracy of Convolutional Neural Networks with bottleneck layers.
 
 - title: Honors and Awards
