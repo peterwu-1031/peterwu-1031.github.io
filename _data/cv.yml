@@ -16,39 +16,41 @@
       year: 2019 - 2023
       description:
         - Last-60-credit GPA - 4.19/4.3 (3.99/4.0)
-        - Cumulative GPA     - 3.99/4.3 (3.87/4.0)
+        - Cumulative GPA - 3.99/4.3 (3.87/4.0)
+        
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant, Undergraduate Researcher
-      institution: Cyber-Physical Systems Lab, NTU, Taipei, Taiwan
+      institution: Cyber-Physical Systems Lab, NTU
       year: 2022 - 2023
       description:
-        - Advised by Prof. Chung-Wei Lin, NTU CSIE.
+        - Advised by Prof. Chung-Wei Lin.
         - Design space exploration for Cyber-Physical Systems complying with Time-Sensitive Networking.
+        - Submitted the paper to DAC 2024 as the first author.
 
     - title: Undergraduate Researcher
-      institution: Access IC Lab, NTU, Taipei, Taiwan
+      institution: Access IC Lab, NTU
       year: 2021 - 2023
       description:
-        - Advised by Prof. An-Yeu (Andy) Wu (IEEE Fellow), NTU EE.
+        - Advised by Prof. An-Yeu (Andy) Wu (IEEE Fellow).
         - Energy-aware and dynamic deep learning inference on hybrid Near-Memory/In-Memory Computing (NMC/IMC) architecture.
+        - Published the paper as the first author with oral presentation at SOCC 2023.
 
     - title: Intern Software Engineer
-      institution: Conformal ECO Team, Cadence, Hsinchu City, Taiwan
+      institution: Conformal ECO Team, Cadence, Hsinchu, Taiwan
       year: 2022
       description:
-        - Supervised by Dr. Shao-Lun Huang, the Software Engineering Director.
         - Optimized the Conformal ECO designer, which supports RTL engineering change orders for pre/post-mask designs.
 
     - title: Undergraduate Researcher
-      institution: Applied Logic and Computation Lab, NTU, Taipei, Taiwan
+      institution: Applied Logic and Computation Lab, NTU
       year: 2020 - 2022
       description:
-      - Advised by Prof. Jie-Hong Roland Jiang, NTU EE.
-        - Improved the accuracy of Convolutional Neural Networks with bottleneck layers.
-        - Designed bitstream-only circuit synthesis for Stochastic Neural Networks.
+      - Advised by Prof. Jie-Hong Roland Jiang.
+      - Bitstream-only circuit synthesis for Stochastic Neural Networks.
+      - Improved the accuracy of Convolutional Neural Networks with bottleneck layers.
 
 - title: Honors and Awards
   type: time_table

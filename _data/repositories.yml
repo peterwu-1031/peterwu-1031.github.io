@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - peterwu-1031
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - peterwu-1031/talking-to-me
+  - peterwu-1031/abc-ErrorRect
+  - peterwu-1031/nn-synthesis
+  - peterwu-1031/de2-115-fpga
+  - peterwu-1031/risc-v-cpu
+  - peterwu-1031/snn-circuits
