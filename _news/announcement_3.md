@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-01
+date: 2023-09-07
 inline: true
 related_posts: false
 ---
 
-Our work, **A Contract-Based Distributed Task-Offloading Methodology for Vehicular Edge Computing**, is submitted to the ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), 2024.
+I present our work, **DEA-NIMC: Dynamic Energy-Aware Policy for Near/In-Memory Computing Hybrid Architecture**, at the IEEE System-on-Chip Conference (SOCC), Santa Clara, CA, USA.
