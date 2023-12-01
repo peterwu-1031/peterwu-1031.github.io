@@ -1,7 +1,7 @@
 ---
 ---
 
-@inproceedings{wu2023dea,
+@inproceedings{wu2023SOCC,
   title={DEA-NIMC: Dynamic Energy-Aware Policy for Near/In-Memory Computing Hybrid Architecture},
   abstract={In-memory computing (IMC) has become the current trend to accelerate the inference of deep neural networks (DNNs). Nonetheless, IMC suffers from variations that significantly degrade the inference accuracy, while near-memory computing (NMC) maintains the ideal accuracy but at the expense of energy efficiency. In this work, we leverage the NMC/IMC hybrid architecture and propose a dynamic energy-aware policy to strike a better trade-off between accuracy and energy efficiency. Our approach takes advantage of deep reinforcement learning (DRL) to dynamically allocate workloads between NMC and IMC at the data level. Furthermore, we consider the varying energy overhead of NMC usage across different DNN layers. Compared with the prior works, we enhance the accuracy by up to 8.8% on CIFAR-10 and 4.6% on CIFAR-100 while consuming the same amount of energy.},
   author={Wu, Yu-Cheng and Huang, Chi-Tse and Wu, An-Yeu Andy},
@@ -11,4 +11,25 @@
   organization={IEEE},
   html={https://ieeexplore.ieee.org/abstract/document/10256898?casa_token=qIkk5dIF75kAAAAA:8DpGvlbk0Y7Lcdfg2gXfHUwMBgcjZAEM78ZRoTFczHhM6hTbz1CT03bV9SH94sxZ2czXE4P2zw},
   preview={DEA-NIMC.gif}
+}
+
+@inproceedings{wu2024DAC,
+  abbr={DAC},
+  title={Deep-Reinforcement-Learning-Based Design Space Exploration for Time-Sensitive Networking (Submitted)},
+  abstract={Time-Sensitive Networking (TSN) has become a favorable option for real-time communication in Cyber-Physical Systems (CPSs), such as intelligent vehicles and industrial control systems, due to its capability of providing bounded end-to-end latencies. However, designing CPSs on a TSN network can be an NP-hard combinatorial optimization problem. Therefore, a formal and efficient approach is desired to explore the design space with different combinations of data flow periods. Accordingly, we propose a novel design flow that preemptively generates a set of schedulable period lists, guaranteeing that all data flow deadlines can be met. We further employ Deep Reinforcement Learning (DRL) to optimize the collecting process of these period lists. The experimental result demonstrates remarkable success where 97.02% of solutions are found with 4.85X speed higher than the method based on Satisfiability Modulo Theories. The result of large-scale scenarios also reveals that our approach outperforms any other comparative method by at least 3.93X more schedulable period lists collected.},
+  author={Wu, Yu-Cheng and Tseng, I-Ching and Lin, Chung-Wei},
+  booktitle={Proceedings of the ACM/IEEE Design Automation Conference},
+  year={2024}
+}
+
+@inproceedings{tseng2024ICCPS,
+  abbr={ICCPS},
+  title={A Contract-Based Distributed Task-Offloading Methodology for Vehicular Edge Computing (Submitted)},
+  abstract={In recent years, the proliferation of vehicular applications has been driven by the advancement of the Internet and the rise of connected vehicles. However, emerging vehicular applications often surpass the computational capabilities of standard vehicle infrastructure. Therefore, offloading tasks to suitable computation platforms like edge servers and cloud servers has become a popular solution for handling computationally intensive vehicular applications. Due to the high latency of cloud servers, recent work tends to apply a distributed architecture. Although prior research has investigated the distributed task-offloading algorithm, the underlying assumptions are usually unspecified. Consequently, the algorithm's performance and behavior cannot be guaranteed.
+
+  In response to these issues, this paper integrates contract-based design into the distributed task-offloading problem. Utilizing assume-guarantee contracts, our methodology allows the formal definition of the assumptions and guarantees associated with individual system components. Developers can then follow the contract to build components independently. Through comprehensive case studies, we showcase the effectiveness of our proposed contracts. Our experimental findings underscore that contracts substantially enhance task-offloading performance and vehicle safety in comparison to systems lacking contract-based design. Moreover, the precise delineation of contracts for each component streamlines the process of breaking down intricate systems into discrete, standalone units, allowing independent development. This modular design approach not only enhances system flexibility but also significantly reduces the overall development cost.},
+  author={Tseng, I-Ching and Wu, Yu-Cheng and Ling, Hsuan and Lin, Chung-Wei},
+  booktitle={ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)},
+  year={2024},
+  organization={IEEE}
 }
