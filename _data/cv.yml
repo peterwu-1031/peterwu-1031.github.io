@@ -66,3 +66,18 @@
     - year: 2017
       items: 
         - National Representative for APMO
+
+- title: Extracurricular Activities
+  type: time_table
+  contents:
+    - title: Captain in 2021/2022, Member
+      institution: Varsity Male Badminton Team, NTU
+      year: 2019 - 2023
+      description:
+        - Created a database system in collaboration with the School of Physical Therapy for training customization and injury prevention.
+        - Led the team to the 2021 National Intercollegiate Athletic Games semi-finals.
+    - title: Technical Volunteer
+      institution: Taiwan Association for Visually Impaired People, New Taipei City, Taiwan
+      year: 2019
+      description:
+        - Created a system for converting physical books to audiobooks for visually impaired students.
