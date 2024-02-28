@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: Yu-Cheng Wu's publications and under review works.
+permalink: /works/
+title: works
+description: Yu-Cheng Wu's publications and accepted/submitted works.
 nav: true
 nav_order: 1
 ---

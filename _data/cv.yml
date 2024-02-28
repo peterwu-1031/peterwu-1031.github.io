@@ -6,7 +6,7 @@
     - name: Languages
       value: Chinese, English
     - name: Interests
-      value: AI acceleration, CAD for VLSI/CPS, ML for CAD
+      value: Applied Deep Learning, CAD for VLSI/CPS, AI Acceleration
 
 - title: Education
   type: time_table
@@ -29,10 +29,10 @@
         - Advised by Prof. Chung-Wei Lin.
         - title: Design space exploration for Cyber-Physical Systems complying with Time-Sensitive Networking.
           contents:
-          - Submitted the paper to the ACM/IEEE DAC 2024 as the first author.
+          - The first-authored paper is accepted to the ACM/IEEE DAC 2024 for WIP.
         - title: Assited in another work about distributed task-offloading for vehicular edge computing.
           contents:
-          - Submitted the paper to the ACM/IEEE ICCPS 2024 as the second author.
+          - Submitted the paper to the IEEE VNC 2024 as the second author.
 
     - title: Undergraduate Researcher
       institution: Access IC Lab, NTU
@@ -54,7 +54,7 @@
       year: 2020 - 2022
       description:
       - Advised by Prof. Jie-Hong Roland Jiang.
-      - Designed bitstream-only circuits for Stochastic Neural Networks synthesis.
+      - Designed bitstream-only circuit synthesis methodology for Stochastic Neural Networks.
       - Improved the accuracy of Convolutional Neural Networks with bottleneck layers.
 
 - title: Honors and Awards

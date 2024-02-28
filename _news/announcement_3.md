@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I present our work, **DEA-NIMC: Dynamic Energy-Aware Policy for Near/In-Memory Computing Hybrid Architecture**, at the IEEE System-on-Chip Conference (SOCC), Santa Clara, CA, USA.
+I present our work, **DEA-NIMC: Dynamic Energy-Aware Policy for Near/In-Memory Computing Hybrid Architecture**, at the 2023 IEEE System-on-Chip Conference (SOCC), Santa Clara, CA, USA.
