@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from National Taiwan University with a B.S.E. in EE.
+I graduate from National Taiwan University with a B.S.E. in EE.
