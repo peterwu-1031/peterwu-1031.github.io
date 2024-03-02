@@ -6,7 +6,7 @@
     - name: Languages
       value: Chinese, English
     - name: Interests
-      value: Applied Deep Learning, CAD for VLSI/CPS, AI Acceleration
+      value: Applied ML, CAD for VLSI/CPS, DL Acceleration
 
 - title: Education
   type: time_table
@@ -27,7 +27,7 @@
       year: 2022 - 2023
       description:
         - Advised by Prof. Chung-Wei Lin.
-        - title: Design space exploration for Cyber-Physical Systems complying with Time-Sensitive Networking.
+        - title: Automated design space exploration for Cyber-Physical Systems complying with Time-Sensitive Networking by machine learning.
           contents:
           - The first-authored paper is accepted to the 2024 ACM/IEEE DAC for WIP.
         - title: Assited in another work about distributed task-offloading for vehicular edge computing.
@@ -54,8 +54,8 @@
       year: 2020 - 2022
       description:
       - Advised by Prof. Jie-Hong Roland Jiang.
-      - Designed bitstream-only circuit synthesis methodology for Stochastic Neural Networks.
       - Improved the accuracy of Convolutional Neural Networks with bottleneck layers.
+      - Researched circuit synthesis methodology based on stochastic computing for Deep Neural Networks.
 
 - title: Honors
   type: time_table
@@ -65,7 +65,7 @@
         - Finalist of NSTC Research Grant for University Students
     - year: 2017
       items: 
-        - National Representative for APMO
+        - Regional Representative for APMO
 
 - title: Extracurricular Activities
   type: time_table
@@ -80,4 +80,4 @@
       institution: Taiwan Association for Visually Impaired People, New Taipei City, Taiwan
       year: 2019
       description:
-        - Created a system for converting physical books to audiobooks for visually impaired students.
+        - Created a deep-learning-based system for converting physical books to audiobooks for visually impaired students.

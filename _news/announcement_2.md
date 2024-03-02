@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work, **DEA-NIMC: Dynamic Energy-Aware Policy for Near/In-Memory Computing Hybrid Architecture**, has been accepted to the 2023 IEEE System-on-Chip Conference (SOCC) for oral presentation!
+Our work, **DEA-NIMC: Dynamic Energy-Aware Policy for Near/In-Memory Computing Hybrid Architecture**, has been accepted to the 2023 IEEE System-on-Chip Conference (SOCC) for oral presentation.
