@@ -6,7 +6,7 @@
     - name: Languages
       value: Chinese, English
     - name: Interests
-      value: Applied ML, CAD for VLSI/CPS, DL Acceleration
+      value: Efficient AI, CAD for ML & ML for CAD
 
 - title: Education
   type: time_table
