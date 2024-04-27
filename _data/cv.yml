@@ -6,7 +6,7 @@
     - name: Languages
       value: Chinese, English
     - name: Interests
-      value: Efficient AI, ML for CAD & CAD for ML systems
+      value: Efficient AI, ML for CAD & CAD for ML Systems
 
 - title: Education
   type: time_table
