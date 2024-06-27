@@ -27,7 +27,7 @@
       year: 2022 - 2023
       description:
         - Advised by Prof. Chung-Wei Lin.
-        - title: Automated design space exploration for Cyber-Physical Systems complying with Time-Sensitive Networking by machine learning.
+        - title: Automated design space exploration for Cyber-Physical Systems complying with Time-Sensitive Networking by deep reinforcement learning.
           contents:
           - The first-authored paper is accepted to the 2024 ATVA.
         - Assisted in another work about distributed task-offloading for vehicular edge computing.
@@ -37,7 +37,7 @@
       year: 2021 - 2023
       description:
         - Advised by Prof. An-Yeu (Andy) Wu, IEEE Fellow.
-        - title: Energy-aware and dynamic deep learning inference on hybrid Near/In-Memory Computing architecture.
+        - title: Enabled energy-aware and dynamic deep learning inference on hybrid Near/In-Memory Computing architecture by deep reinforcement learning.
           contents:
           -  Published the first-authored paper at the 2023 IEEE SOCC with oral presentation.
 
