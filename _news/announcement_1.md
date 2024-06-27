@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduate from the National Taiwan University with a B.S.E. in EE.
+I graduated with a B.S.E. from the Dept. of Electrical Engineering at National Taiwan University!
